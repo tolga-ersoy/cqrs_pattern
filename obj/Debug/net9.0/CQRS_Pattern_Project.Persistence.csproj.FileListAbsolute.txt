@@ -1,0 +1,17 @@
+/Users/tolgaersoy/Desktop/CQRS_Pattern_Project/CQRS_Pattern_Project.Persistence/bin/Debug/net9.0/CQRS_Pattern_Project.Persistence.deps.json
+/Users/tolgaersoy/Desktop/CQRS_Pattern_Project/CQRS_Pattern_Project.Persistence/bin/Debug/net9.0/CQRS_Pattern_Project.Persistence.dll
+/Users/tolgaersoy/Desktop/CQRS_Pattern_Project/CQRS_Pattern_Project.Persistence/bin/Debug/net9.0/CQRS_Pattern_Project.Persistence.pdb
+/Users/tolgaersoy/Desktop/CQRS_Pattern_Project/CQRS_Pattern_Project.Persistence/bin/Debug/net9.0/CQRS_Pattern_Project.Application.dll
+/Users/tolgaersoy/Desktop/CQRS_Pattern_Project/CQRS_Pattern_Project.Persistence/bin/Debug/net9.0/CQRS_Pattern_Project.Domain.dll
+/Users/tolgaersoy/Desktop/CQRS_Pattern_Project/CQRS_Pattern_Project.Persistence/bin/Debug/net9.0/CQRS_Pattern_Project.Application.pdb
+/Users/tolgaersoy/Desktop/CQRS_Pattern_Project/CQRS_Pattern_Project.Persistence/bin/Debug/net9.0/CQRS_Pattern_Project.Domain.pdb
+/Users/tolgaersoy/Desktop/CQRS_Pattern_Project/CQRS_Pattern_Project.Persistence/obj/Debug/net9.0/CQRS_Pattern_Project.Persistence.csproj.AssemblyReference.cache
+/Users/tolgaersoy/Desktop/CQRS_Pattern_Project/CQRS_Pattern_Project.Persistence/obj/Debug/net9.0/CQRS_Pattern_Project.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tolgaersoy/Desktop/CQRS_Pattern_Project/CQRS_Pattern_Project.Persistence/obj/Debug/net9.0/CQRS_Pattern_Project.Persistence.AssemblyInfoInputs.cache
+/Users/tolgaersoy/Desktop/CQRS_Pattern_Project/CQRS_Pattern_Project.Persistence/obj/Debug/net9.0/CQRS_Pattern_Project.Persistence.AssemblyInfo.cs
+/Users/tolgaersoy/Desktop/CQRS_Pattern_Project/CQRS_Pattern_Project.Persistence/obj/Debug/net9.0/CQRS_Pattern_Project.Persistence.csproj.CoreCompileInputs.cache
+/Users/tolgaersoy/Desktop/CQRS_Pattern_Project/CQRS_Pattern_Project.Persistence/obj/Debug/net9.0/CQRS_Pat.5A9319FE.Up2Date
+/Users/tolgaersoy/Desktop/CQRS_Pattern_Project/CQRS_Pattern_Project.Persistence/obj/Debug/net9.0/CQRS_Pattern_Project.Persistence.dll
+/Users/tolgaersoy/Desktop/CQRS_Pattern_Project/CQRS_Pattern_Project.Persistence/obj/Debug/net9.0/refint/CQRS_Pattern_Project.Persistence.dll
+/Users/tolgaersoy/Desktop/CQRS_Pattern_Project/CQRS_Pattern_Project.Persistence/obj/Debug/net9.0/CQRS_Pattern_Project.Persistence.pdb
+/Users/tolgaersoy/Desktop/CQRS_Pattern_Project/CQRS_Pattern_Project.Persistence/obj/Debug/net9.0/ref/CQRS_Pattern_Project.Persistence.dll
